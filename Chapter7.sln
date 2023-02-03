@@ -13,6 +13,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ソリューション項目
 		index.html = index.html
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{8026F1A6-DA01-42B3-A609-C022FAFEDD32}"
+	ProjectSection(SolutionItems) = preProject
+		img\img01.jpg = img\img01.jpg
+		img\img02.jpg = img\img02.jpg
+		img\img03.jpg = img\img03.jpg
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
