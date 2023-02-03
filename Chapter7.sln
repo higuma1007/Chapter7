@@ -10,6 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{3C9523E9-758
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ソリューション項目", "ソリューション項目", "{879B1763-7FC7-4205-B991-BCD134E0C994}"
 	ProjectSection(SolutionItems) = preProject
+		images.json = images.json
 		index.html = index.html
 	EndProjectSection
 EndProject

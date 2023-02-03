@@ -20,8 +20,7 @@ header {
     background-color: #007acc; /* 背景色を濃い青に */
     color: #fff; /* 文字色を白に */
     position: fixed; /* ヘッダーを画面内固定に */
-    /* top: 0; */ /* 位置を一番上に */
-    bottom: 0;
+    top: 0; /* 位置を一番上に */
     width: 100%; /* 幅を画面幅一杯に */
     z-index: 100; /* 重なったときの優先度を上に */
 }
